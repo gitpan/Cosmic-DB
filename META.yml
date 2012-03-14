@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Cosmic-DB
-version:            0.01_04
+version:            0.01_05
 abstract:           Lightweight SQL generation, portable across Oracle, MySQL, Postgres & SQL Server
 author:
     - Lyle Hopkins (cosmicnet@cpan.org)
